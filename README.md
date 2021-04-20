@@ -79,7 +79,7 @@
 </details>
 
 <details>
-  <summary>3 Servo Motor 3 LED with Arduino in Tinkercad</summary>
+  <summary>3 Servo Motor (3 LED) with Arduino in Tinkercad</summary>
   
   [![3 Servo Motor 3 LED with Arduino in Tinkercad](https://img.youtube.com/vi/tb4LF80xH6s/0.jpg)](https://www.youtube.com/watch?v=tb4LF80xH6s)
 </details>
