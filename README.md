@@ -10,11 +10,15 @@
 <details>
   <summary>LED with Arduino in Tinkercad</summary>
   
+  Code: [led.ino](/led/led.ino)
+  
   [![LED with Arduino in Tinkercad](https://img.youtube.com/vi/kRehMMJgHuE/0.jpg)](https://www.youtube.com/watch?v=kRehMMJgHuE) 
 </details>
 
 <details>
   <summary>RGB LED with Arduino in Tinkercad</summary>
+  
+  Code: [rgb_led.ino](/led/rgb_led.ino)
   
   [![RGB LED with Arduino in Tinkercad](https://img.youtube.com/vi/yCmuAmn-dpc/0.jpg)](https://www.youtube.com/watch?v=yCmuAmn-dpc)
 </details>
@@ -95,17 +99,23 @@
 <details>
   <summary>PWM with Arduino in Tinkercad</summary>
   
+  Code: [pwm.ino](/pwm/pwm.ino)
+  
   [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/wUrXRhCqQ84/0.jpg)](https://www.youtube.com/watch?v=wUrXRhCqQ84)
 </details>
 
 <details>
   <summary>Fade LED (PWM) with Arduino in Tinkercad</summary>
   
+  Code: [fade_led_pwm.ino](/pwm/fade_led_pwm.ino)
+  
   [![Fade LED (PWM) with Arduino in Tinkercad](https://img.youtube.com/vi/4qlN6Ph2zbI/0.jpg)](https://www.youtube.com/watch?v=4qlN6Ph2zbI)
 </details>
 
 <details>
   <summary>DC Motor (PWM) with Arduino in Tinkercad</summary>
+  
+  Code: [dc_motor_pwm.ino](/pwm/dc_motor_pwm.ino)
   
   [![DC Motor (PWM) with Arduino in Tinkercad](https://img.youtube.com/vi/Z9MoKni-dqc/0.jpg)](https://www.youtube.com/watch?v=Z9MoKni-dqc)
 </details>
