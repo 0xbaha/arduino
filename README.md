@@ -28,11 +28,15 @@
 <details>
   <summary>Ultrasonic Sensor with Arduino in Tinkercad</summary>
   
+  Code: [ultrasonic_sensor.ino](/sensor/ultrasonic_sensor.ino)
+  
   [![Ultrasonic Sensor with Arduino in Tinkercad](https://img.youtube.com/vi/-nPBzi3EVfs/0.jpg)](https://www.youtube.com/watch?v=-nPBzi3EVfs)
 </details>
 
 <details>
   <summary>Temperature Sensor with Arduino in Tinkercad</summary>
+  
+  Code: [temperature_sensor.ino](/sensor/temperature_sensor.ino)
   
   [![Temperature Sensor with Arduino in Tinkercad](https://img.youtube.com/vi/J4Jjxx8KBxg/0.jpg)](https://www.youtube.com/watch?v=J4Jjxx8KBxg)
 </details>
@@ -40,11 +44,15 @@
 <details>
   <summary>Photoresistor with Arduino in Tinkercad</summary>
   
+  Code: [photoresistor.ino](/sensor/photoresistor.ino)
+  
   [![Photoresistor with Arduino in Tinkercad](https://img.youtube.com/vi/llXDQZlo-4g/0.jpg)](https://www.youtube.com/watch?v=llXDQZlo-4g)
 </details>
 
 <details>
   <summary>Gas Sensor with Arduino in Tinkercad</summary>
+  
+  Code: [gas_sensor.ino](/sensor/gas_sensor.ino)
   
   [![Gas Sensor with Arduino in Tinkercad](https://img.youtube.com/vi/oNqGdqcdIjE/0.jpg)](https://www.youtube.com/watch?v=oNqGdqcdIjE)
 </details>
@@ -52,11 +60,15 @@
 <details>
   <summary>IR Sensor with Arduino in Tinkercad</summary>
   
+  Code: [ir_sensor.ino](/sensor/ir_sensor.ino)
+  
   [![IR Sensor with Arduino in Tinkercad](https://img.youtube.com/vi/9fO_KxGM7Tc/0.jpg)](https://www.youtube.com/watch?v=9fO_KxGM7Tc)
 </details>
 
 <details>
   <summary>PIR Sensor with Arduino in Tinkercad</summary>
+  
+  Code: [pir_sensor.ino](/sensor/pir_sensor.ino)
   
   [![PIR Sensor with Arduino in Tinkercad](https://img.youtube.com/vi/-PbH9sJ3t-0/0.jpg)](https://www.youtube.com/watch?v=-PbH9sJ3t-0)
 </details>
