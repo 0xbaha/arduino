@@ -79,11 +79,15 @@
 <details>
   <summary>DC Motor with Arduino in Tinkercad</summary>
   
+  Code: [dc_motor.ino](/actuator/dc_motor.ino)
+  
   [![DC Motor with Arduino in Tinkercad](https://img.youtube.com/vi/dBT3hT_Xn-c/0.jpg)](https://www.youtube.com/watch?v=dBT3hT_Xn-c)
 </details>
 
 <details>
   <summary>Servo Motor with Arduino in Tinkercad</summary>
+  
+  Code: [servo.ino](/actuator/servo.ino)
   
   [![Servo Motor with Arduino in Tinkercad](https://img.youtube.com/vi/bc1LLABIy7M/0.jpg)](https://www.youtube.com/watch?v=bc1LLABIy7M)
 </details>
@@ -91,17 +95,23 @@
 <details>
   <summary>Servo Motor (RGB LED) with Arduino in Tinkercad</summary>
   
+  Code: [servo_rgb_led.ino](/actuator/servo_rgb_led.ino)
+  
   [![Servo Motor (RGB LED) with Arduino in Tinkercad](https://img.youtube.com/vi/XfhOHaNvBHM/0.jpg)](https://www.youtube.com/watch?v=XfhOHaNvBHM)
 </details>
 
 <details>
   <summary>3 Servo Motor (3 LED) with Arduino in Tinkercad</summary>
   
+  Code: [3_servo_3_led.ino](/actuator/3_servo_3_led.ino)
+  
   [![3 Servo Motor 3 LED with Arduino in Tinkercad](https://img.youtube.com/vi/tb4LF80xH6s/0.jpg)](https://www.youtube.com/watch?v=tb4LF80xH6s)
 </details>
 
 <details>
   <summary>3 Servo Motor (RGB LED) with Arduino in Tinkercad</summary>
+  
+  Code: [3_servo_rgb_led.ino](/actuator/3_servo_rgb_led.ino)
   
   [![3 Servo Motor (RGB LED) with Arduino in Tinkercad](https://img.youtube.com/vi/KX3cQ8LN6MU/0.jpg)](https://www.youtube.com/watch?v=KX3cQ8LN6MU)
 </details>
