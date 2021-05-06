@@ -5,6 +5,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/aceX20/arduino)
 ![GitHub](https://img.shields.io/github/license/aceX20/arduino)
 
+## Table of Content
+1. [Actuator](#actuator)
+1. [LCD](#lcd)
+1. [LED](#led)
+1. [PWM](#pwm)
+1. [Sensor](#sensor)
+
 ## LED
 
 <details>
@@ -140,4 +147,70 @@
   Code: [dc_motor_pwm.ino](/pwm/dc_motor_pwm.ino)
   
   [![DC Motor (PWM) with Arduino in Tinkercad](https://img.youtube.com/vi/Z9MoKni-dqc/0.jpg)](https://www.youtube.com/watch?v=Z9MoKni-dqc)
+</details>
+
+## LCD
+
+<details>
+  <summary>LCD with Arduino in Tinkercad</summary>
+  
+  Code: [lcd.ino](/lcd/lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/wslBGwwOGnk/0.jpg)](https://www.youtube.com/watch?v=wslBGwwOGnk)
+</details>
+
+<details>
+  <summary>Ultrasonic (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [ultrasonic_sensor_lcd.ino](/lcd/ultrasonic_sensor_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/aWTYn-m2FLA/0.jpg)](https://www.youtube.com/watch?v=aWTYn-m2FLA)
+</details>
+
+<details>
+  <summary>Temperature (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [temperature_sensor_lcd.ino](/lcd/temperature_sensor_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/amTy-wfOOs8/0.jpg)](https://www.youtube.com/watch?v=amTy-wfOOs8)
+</details>
+
+<details>
+  <summary>2 Sensors (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [2_sensors_lcd.ino](/lcd/2_sensors_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/orXhTXNBGfs/0.jpg)](https://www.youtube.com/watch?v=orXhTXNBGfs)
+</details>
+
+<details>
+  <summary>3 Sensors (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [3_sensors_lcd.ino](/lcd/3_sensors_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/YhsPI1kC55U/0.jpg)](https://www.youtube.com/watch?v=YhsPI1kC55U)
+</details>
+
+<details>
+  <summary>4 Sensors (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [4_sensors_lcd.ino](/lcd/4_sensors_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/ULQW3utScbg/0.jpg)](https://www.youtube.com/watch?v=ULQW3utScbg)
+</details>
+
+<details>
+  <summary>5 Sensors (LCD) with Arduino in Tinkercad</summary>
+  
+  Code: [5_sensors_lcd.ino](/lcd/5_sensors_lcd.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/7zPjiOrCheM/0.jpg)](https://www.youtube.com/watch?v=7zPjiOrCheM)
+</details>
+
+<details>
+  <summary>LCD and Keypad with Arduino in Tinkercad</summary>
+  
+  Code: [lcd_and_keypad.ino](/lcd/lcd_and_keypad.ino)
+  
+  [![PWM with Arduino in Tinkercad](https://img.youtube.com/vi/14l7BvyKIlY/0.jpg)](https://www.youtube.com/watch?v=14l7BvyKIlY)
 </details>
